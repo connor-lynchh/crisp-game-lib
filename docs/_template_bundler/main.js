@@ -1,13 +1,15 @@
+import "crisp-game-lib";
+
 // The title of the game to be displayed on the title screen
-title = "CHARGE RUSH";
+const title = "CHARGE RUSH";
 
 // The description, which is also displayed on the title screen
-description = `
+const description = `
 Destroy enemies.
 `;
 
 // The array of custom sprites
-characters = [
+const characters = [
 `
   ll
   ll
